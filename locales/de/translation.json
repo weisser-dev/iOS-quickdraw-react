@@ -1,0 +1,9 @@
+{
+  "home": {
+    "header": "Zeichnung 1/6",
+    "instruction": "Zeichne:",
+    "objectName": "Kanone",
+    "timer": "Du hast dafür 19 Sekunden.",
+    "startButton": "Start"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "home": {
+    "header": "Drawing 1/6",
+    "instruction": "Draw:",
+    "objectName": "Cannon",
+    "timer": "You have 19 seconds.",
+    "startButton": "Start",
+    "progress": "Draw 1/6"
+  },
+  "draw": {
+    "prompt": "Is this a cat?",
+    "timer": "Timer:"
+  }
+}
